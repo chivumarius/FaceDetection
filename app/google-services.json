@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964866917224",
+    "project_id": "facedetection-e8e76",
+    "storage_bucket": "facedetection-e8e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964866917224:android:3dd160ad9dc7e201d4ccdd",
+        "android_client_info": {
+          "package_name": "com.chivumarius.facedetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmcKTzN1G6hCBmpjz7eUd3OHzlo5EJ1Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
